@@ -3,6 +3,7 @@ using MVCCoreApi.Models;
 using MVCCoreApiMovie.Models;
 using MVCCoreApiMovie.Services;
 
+//Starts
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
